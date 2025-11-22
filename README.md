@@ -4,7 +4,6 @@
 
 ![Max Müller](https://img.shields.io/badge/Autor-Max%20M%C3%BCller-blue?style=for-the-badge&logo=github)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-Tutorial-8023F9?style=for-the-badge&logo=github)
-![First Repo](https://img.shields.io/badge/Primeiro%20Reposit%C3%B3rio-Comece%20Aqui-green?style=for-the-badge&logo=git)
 ![Step by Step](https://img.shields.io/badge/Aprendizado-Passo%20a%20Passo-orange?style=for-the-badge&logo=gitbook)
 
 
