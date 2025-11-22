@@ -114,4 +114,7 @@ Captura de tela da página do repositório no GitHub. Acima da lista de arquivos
 ## Conclusão
 Agora você criou um repositório, publicou-o no GitHub, fez um commit e enviou suas alterações para o GitHub. Você pode seguir esse mesmo fluxo de trabalho ao contribuir para outros projetos que você cria ou nos quais colabora.
 
+## Pratique!
+A melhor forma de aprender é fazendo. 
+
 #### Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
