@@ -117,4 +117,9 @@ Agora você criou um repositório, publicou-o no GitHub, fez um commit e enviou 
 ## Pratique!
 A melhor forma de aprender é fazendo. 
 
-#### Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
+---
+
+## Autor
+Professor: Max Müller
+
+Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
