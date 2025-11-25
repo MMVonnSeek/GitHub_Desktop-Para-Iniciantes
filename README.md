@@ -6,6 +6,7 @@
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-Tutorial-8023F9?style=for-the-badge&logo=github)
 ![Step by Step](https://img.shields.io/badge/Aprendizado-Passo%20a%20Passo-orange?style=for-the-badge&logo=gitbook)
 
+---
 
 ## Introdução
 O GitHub Desktop é um aplicativo gratuito e de código aberto que ajuda você a trabalhar com código hospedado no GitHub ou em outros serviços de hospedagem Git. Com o GitHub Desktop, você pode executar comandos do Git, como fazer commits e push de alterações, em uma interface gráfica do usuário, em vez de usar a linha de comando. Para mais informações, consulte Sobre o GitHub Desktop .
