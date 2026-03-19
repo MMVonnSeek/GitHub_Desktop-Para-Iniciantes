@@ -138,7 +138,7 @@ Se você gostou do projeto, não esqueça de:
 
 ----------
 
-<div align="center"> <sub> Feito por <strong>Prof. Max Muller - MMVonnSeek</strong> para a comunidade de segurança </sub>
+<div align="center"> <sub> Feito por <strong>Prof. Max Muller - MMVonnSeek</strong></sub>
 
   
   
